@@ -1,4 +1,3 @@
-```markdown
 # Recipe App
 
 ## Description
@@ -76,5 +75,3 @@ Contributions are welcome! If you want to contribute to this project, please fol
 ## Contact
 
 If you have any questions or suggestions regarding this project, please feel free to reach out to the project maintainer at [your-email@example.com](mailto:your-email@example.com).
-```
-```
